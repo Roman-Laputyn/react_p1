@@ -1,8 +1,10 @@
 function Main() {
    return (
-      <main className='conteiner'>
-         <p>Main</p>
-      </main>
+      <div>
+         Main
+      </div>
+       
    );
+   
 }
 export default Main;
