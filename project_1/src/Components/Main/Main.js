@@ -1,9 +1,14 @@
+import React from "react";
+
 function Main() {
-   return (
-      <div>
-         Main
-      </div>
-       
+   return(
+      
+         React.createElement(
+            'h1',
+            null,
+            'Hello !'
+         )
+      
    );
    
 }
